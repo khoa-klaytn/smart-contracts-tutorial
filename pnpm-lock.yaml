@@ -1,0 +1,16 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  '@klaytn/contracts':
+    specifier: ^1.0.6
+    version: 1.0.6
+
+packages:
+
+  /@klaytn/contracts@1.0.6:
+    resolution: {integrity: sha512-IqRvqPR2e4IqUe4uvPByTiKTr0V+oGHfke78h5R9rzKz+L0niXTeBs63A4b76dhktUWwYU70lbl6WsHPh7esgw==}
+    dev: false
